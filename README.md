@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Mobile App Development | DSA<br><br>- 🌱 I’m currently learning Data Structures and Algorithms<br><br>- 👯 I’m looking to collaborate on Mobile App Development projects<br><br>- 💬 Ask me about Mobile App Development | Java | C++<br><br>- 📫 How to reach me abdulwahablaghari6@gmail.com<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/awahab89/])<br><br>- ⚡ Fun fact Code |Astronomy | Nature Enthusiast
+- 🔭 I’m currently working on Mobile App Development | Flutter <br><br>- 🌱 I’m currently learning Data Structures and Algorithms<br><br>- 👯 I’m looking to collaborate on Mobile App Development projects<br><br>- 💬 Ask me about Mobile App Development | Java | C++<br><br>- 📫 How to reach me abdulwahablaghari6@gmail.com<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/awahab89/])<br><br>- ⚡ Fun fact Code |Astronomy | Nature Enthusiast
 
 
 ## 🌐 Socials:
