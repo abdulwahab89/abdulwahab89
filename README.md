@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=abdulwahab89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=AbdulWa17643909)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=AWahabSWE)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abdulwahab89&icon=0&color=0)](https://visitcount.itsvg.in)
