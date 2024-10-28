@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-- 🔭 I’m currently working on Mobile App Development | Flutter <br><br>- 🌱 I’m currently learning Flutter<br><br>- 👯 I’m looking to collaborate on Mobile App Development projects<br><br>- 💬 Ask me about Mobile App Development | Programming | Tech <br><br>- 📫 How to reach me abdulwahablaghari6@gmail.com<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/awahab89/])<br><br>- ⚡ Fun fact Code |Loves to code | Loves science. 
+- 🔭 I’m currently working on Mobile App Development | Flutter <br><br>- 🌱 I’m currently learning EVERYTHING<br><br>- 👯 I’m looking to collaborate on Mobile App Development projects<br><br>- 💬 Ask me about Mobile App Development | Programming | Tech <br><br>- 📫 How to reach me abdulwahablaghari6@gmail.com<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/awahab89/])<br><br>- ⚡ Fun fact Code |Loves to code | Loves science. 
 
 
 ## 🌐 Socials:
