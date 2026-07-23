@@ -1,6 +1,18 @@
-
+a
 # 💫 About Me:
-- 🔭 I’m currently working on Backend Engineering  | Flutter <br><br>- 🌱 I’m currently learning EVERYTHING<br><br>- 👯 I’m looking to collaborate on Mobile App Development projects<br><br>- 💬 Ask me about Mobile App Development | JS | NodeJS | Tech <br><br>- 📫 How to reach me abdulwahablaghari6@gmail.com<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/awahab89/])<br><br>- ⚡ Fun fact Code |Loves to code | Loves science. 
+- 🚀 Building high-performance Mobile & Backend applications
+
+- 📱 Mobile Application Engineer
+
+- 🤝 Open to collaborating on impactful Mobile and Full-Stack projects
+
+- 💬 Ask me about Flutter, Dart, Firebase, Node.js, Express.js, APIs, Clean Architecture & State Management
+
+- 📫 Email: abdulwahablaghari6@gmail.com
+
+- 💼 LinkedIn: https://www.linkedin.com/in/awahab89/
+
+- ⚡ Outside of coding, you'll probably find me reading about science, technology, or software architecture.
 
 
 ## 🌐 Socials:
