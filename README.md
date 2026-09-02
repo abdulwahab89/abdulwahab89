@@ -1,4 +1,3 @@
-a
 # 💫 About Me:
 - 🚀 Building high-performance Mobile & Backend applications
 
