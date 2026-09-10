@@ -124,22 +124,7 @@ Working on a production real-time communication platform for iOS and Android.
 
 ---
 
-### 🚗 Flutter Developer — Trizolt
 
-`Dec 2025 – Jan 2026`
-
-**Ride-Hailing & eCommerce Super-App · Europe**
-
-Built features for a multi-service platform combining ride booking, eCommerce, and rental services.
-
-* 🗺️ Real-time driver tracking
-* 💰 Dynamic fare calculation
-* 🔥 Firebase Authentication & Firestore
-* 📍 Google Maps integration
-* ⚡ WebSocket-based communication
-* 🏗️ Enterprise mobile development
-
----
 
 ### 🍔 Flutter Developer — AZ Solutions
 
